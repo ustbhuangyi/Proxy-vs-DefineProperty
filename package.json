@@ -1,0 +1,22 @@
+{
+  "name": "proxy-vs-defineproperty",
+  "version": "1.0.0",
+  "description": "Proxy and Objet.defineProperty performance comparison.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "python -m SimpleHTTPServer 8088"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ustbhuangyi/Proxy-vs-DefineProperty.git"
+  },
+  "author": "ustbhuangyi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ustbhuangyi/Proxy-vs-DefineProperty/issues"
+  },
+  "homepage": "https://github.com/ustbhuangyi/Proxy-vs-DefineProperty#readme",
+  "dependencies": {
+    "benchmark": "^2.1.4"
+  }
+}
